@@ -1,0 +1,2 @@
+# Optional: for 2D visualization in consumer_node (saves plot to /tmp/mini_autoware_viz.png)
+matplotlib>=3.5.0
